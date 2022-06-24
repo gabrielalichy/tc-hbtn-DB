@@ -1,0 +1,38 @@
+[
+    {
+        "EMAIL": "betty@techcamps.com",
+        "ID": 1,
+        "NOME": "Betty",
+        "TELEFONE": 12345678
+    },
+    {
+        "EMAIL": "alex@techcamps.com",
+        "ID": 2,
+        "NOME": "Alex",
+        "TELEFONE": 23456781
+    },
+    {
+        "EMAIL": "lua@techcamps.com",
+        "ID": 3,
+        "NOME": "Lua",
+        "TELEFONE": 34567812
+    },
+    {
+        "EMAIL": "thyago@techcamps.com",
+        "ID": 4,
+        "NOME": "Thyago",
+        "TELEFONE": 45678123
+    },
+    {
+        "EMAIL": "rick@techcamps.com",
+        "ID": 5,
+        "NOME": "Rick",
+        "TELEFONE": 56781234
+    },
+    {
+        "EMAIL": "jake@techcamps.com",
+        "ID": 6,
+        "NOME": "Jake",
+        "TELEFONE": 67812345
+    }
+]
